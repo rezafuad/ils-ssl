@@ -1,9 +1,7 @@
 <h1 align="center"> Pytorch ReID </h1>
 <h2 align="center"> Strong, Small, Friendly </h2>
 
-[![Language grade: Python](https://img.shields.io/lgtm/grade/python/g/layumi/Person_reID_baseline_pytorch.svg?logo=lgtm&logoWidth=18)](https://lgtm.com/projects/g/layumi/Person_reID_baseline_pytorch/context:python)
-[![Build Status](https://travis-ci.org/layumi/Person_reID_baseline_pytorch.svg?branch=master)](https://travis-ci.org/layumi/Person_reID_baseline_pytorch)
-[![Total alerts](https://img.shields.io/lgtm/alerts/g/layumi/Person_reID_baseline_pytorch.svg?logo=lgtm&logoWidth=18)](https://lgtm.com/projects/g/layumi/Person_reID_baseline_pytorch/alerts/)
+![Python3.6+](https://img.shields.io/badge/python-3.6+-green.svg)
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
 
 A tiny, friendly, strong baseline code for Object-reID (based on [pytorch](https://pytorch.org)) since 2017.
